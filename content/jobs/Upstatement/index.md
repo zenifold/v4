@@ -1,10 +1,10 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Data & Research Analyst'
+company: 'CraniumTap'
+location: 'Norfolk, VA'
+range: 'June 2019 - Present'
+url: 'https://www.craniumtap.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
