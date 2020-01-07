@@ -3,13 +3,13 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Tableau
+  - Python
   - R
   - Claritas
-  - Qualtrics
   - SQL
-  - Python
-  - Express
-  - NativeScript
+  - Qualtrics
+  - JavaScript (ES6+)
+  - React
 ---
 
 Hello there! I'm Max, a research analyst based in Norfolk, VA who enjoys turning numbers into stories. I help businesses gain insights using data and analytics. Some would call me a data scientist, but I am far too humble. I've advised organizations on anything between geolocating tree forestry concentrations in order to mitigate groundwater saturation to preprocessing enterprise level AI libraries for global supply chain infrastrucure. 
