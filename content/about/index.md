@@ -11,8 +11,8 @@ skills:
   - NativeScript
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello there! I'm Max, I am a research analyst based in Norfolk, VA who enjoys turning numbers into stories. I help businesses gain insights using data and analytics. Some would call me a data scientist, but I am far too humble. I've advised organizations on anything between tree forestry concentrations to mitigate groundwater saturation to leveraging enterprise level AI infrastructure for global supply chains. 
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I am currently helping launch a startup called [CraniumTap](https://www.craniumtap.com/), where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 Here are a few technologies I've been working with recently:
