@@ -3,12 +3,14 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Python
-  - Tableau
+  - SPSS
   - R
-  - Nielson
+  - Tableau
   - SQL
-  - Claritas
+  - Nielson
   - JavaScript (ES6+)
+  - Claritas
+  - React
   - Qualtrics
 ---
 
@@ -16,4 +18,4 @@ Hello there internet friends, it seems you've found my page. I'm Max, a research
 
 I am currently helping fine-tune a startup called [CraniumTap](https://www.craniumtap.com/), where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
-Here are a few technologies I've been working with recently:
+Here are a few technologies and tools I've been working with recently:
