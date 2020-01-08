@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
 title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
+company: 'Electronic Systems'
+location: 'Virginina Beach, VA'
 range: 'July - Dec 2017'
-url: 'https://www.apple.com/music/'
+url: 'https://www.esi.net/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
