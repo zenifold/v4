@@ -1,7 +1,7 @@
 ---
 date: '2017-12-21'
 title: 'UI Engineer Co-op'
-company: 'Electronic Systems'
+company: 'Product Marketing Manager'
 location: 'Virginina Beach, VA'
 range: 'July - Dec 2017'
 url: 'https://www.esi.net/'
