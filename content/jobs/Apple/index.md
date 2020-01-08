@@ -3,7 +3,7 @@ date: '2017-12-21'
 title: 'Product Marketing Manager'
 company: 'Electronic Systems'
 location: 'Virginina Beach, VA'
-range: 'May 2016 - Feb 2019'
+range: 'May 2016 - February 2019'
 url: 'https://www.esi.net/'
 ---
 
