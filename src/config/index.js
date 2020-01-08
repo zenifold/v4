@@ -6,7 +6,7 @@ module.exports = {
     'Max Murphy, Max, Maximilian, Murphy, zenifold, research analyst, business analyst, data analyst, analyst, data science, developer, javascript, Norfolk',
   siteUrl: 'https://maxs.page',
   siteLanguage: 'en_US',
-  googleAnalyticsID: ' ',
+  googleAnalyticsID: 'UA-155540496-1',
   googleVerification: ' ',
   name: 'Max Murphy',
   location: 'Norfolk, VA',
