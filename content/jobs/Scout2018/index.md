@@ -1,6 +1,6 @@
 ---
 date: '2018-04-01'
-title: 'Marketing & Business Analyst'
+title: 'Business & Marketing Analyst'
 company: 'Virginia Media'
 location: 'Norfolk, VA'
 range: 'February - June 2019'
