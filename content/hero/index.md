@@ -1,7 +1,7 @@
 ---
 title: 'Hey, my name is'
 name: 'Max Murphy'
-subtitle: 'I make business data scientific.'
+subtitle: 'Need help with your analytics?'
 contactText: 'Get In Touch'
 ---
 
