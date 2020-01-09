@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'New Featured Project'
 cover: './octoprofile.png'
 github: 'https://github.com/bchiang7/octoprofile'
 external: 'https://octoprofile.now.sh'
