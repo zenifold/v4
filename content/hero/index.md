@@ -1,7 +1,7 @@
 ---
 title: 'Hey, my name is'
 name: 'Max Murphy'
-subtitle: 'Decision Science is the disipline of making data useful.'
+subtitle: 'Data Science is the disipline of making data useful.'
 contactText: 'Get In Touch'
 ---
 
