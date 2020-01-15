@@ -5,12 +5,12 @@ skills:
   - Python
   - SPSS
   - R
-  - Tableau
+  - ArcGIS
   - SQL
-  - Nielson
+  - Tableau
   - JavaScript (ES6+)
-  - Claritas
-  - React
+  - RapidMiner
+  - NodeXL
   - Qualtrics
 ---
 
