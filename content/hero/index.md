@@ -1,7 +1,7 @@
 ---
 title: 'Hey, my name is'
 name: 'Max Murphy'
-subtitle: 'Data Science is the disipline of making data useful.'
+subtitle: 'I research cryptographic solutions.'
 contactText: 'Get In Touch'
 ---
 
