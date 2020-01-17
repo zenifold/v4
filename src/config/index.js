@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Max Murphy | Research Analyst',
   siteDescription:
-    'Max Murphy is a research analyst based in Norfolk, VA who solves real-world problems with data science and analytics.',
+    'Max Murphy is a research analyst based in Norfolk VA who solves real-world problems with data science and analytics.',
   siteKeywords:
     'Max Murphy, Max, Maximilian, Murphy, zenifold, research analyst, business analyst, data analyst, analyst, data science, developer, javascript, Norfolk',
   siteUrl: 'https://maxs.page',
